@@ -23,15 +23,27 @@ This repository serves as a structured learning archive rather than a portfolio 
 - Preventing duplicate or invalid entries using custom rules  
 - Working with input messages and error alerts  
 - Introduction to conditional formatting  
-- Applying basic and advanced conditional formatting rules  
+- Applying basic and advanced conditional formatting rules
+
+## Week 2 – Logical Functions and Error Handling
+
+- Using the IF function for conditional calculations  
+- Applying AND and OR functions for multiple conditions  
+- Combining IF with AND/OR for complex logical tests  
+- Working with nested IF statements  
+- Handling errors using IFERROR and IFNA  
+- Creating formulas with multiple logical conditions  
+- Understanding TRUE/FALSE evaluations in Excel  
+- Using logical functions in real-world spreadsheet scenarios  
 
 ## Key Skills Practiced
 
-- Data validation and input control  
-- Custom formula-based validation  
-- Error handling in spreadsheets  
+- Data validation and formatting  
+- Logical and conditional functions  
+- Error handling in Excel  
+- Formula-based automation  
 - Data quality management  
-- Conditional formatting for data insights  
+- Spreadsheet problem-solving    
 
 ## Tools Used
 
