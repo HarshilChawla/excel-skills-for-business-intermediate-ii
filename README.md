@@ -34,16 +34,52 @@ This repository serves as a structured learning archive rather than a portfolio 
 - Handling errors using IFERROR and IFNA  
 - Creating formulas with multiple logical conditions  
 - Understanding TRUE/FALSE evaluations in Excel  
-- Using logical functions in real-world spreadsheet scenarios  
+- Using logical functions in real-world spreadsheet scenarios
+
+## Week 3 – Automating Lookups
+
+- Using the CHOOSE function for lookups  
+- Performing approximate match lookups with VLOOKUP  
+- Performing exact match lookups with VLOOKUP  
+- Finding positions using MATCH  
+- Creating dynamic lookups with INDEX and MATCH  
+- Building flexible and automated lookup formulas
+
+## Week 4 – Formula Auditing and Protection
+
+- Performing error checking in formulas  
+- Managing formula calculation options  
+- Tracing precedents and dependents  
+- Using Evaluate Formula and Watch Window  
+- Protecting workbooks and worksheets  
+- Auditing and debugging spreadsheet formulas
+
+## Week 5 – Data Modelling
+
+- Using SUMPRODUCT for analytical calculations  
+- Creating and analyzing data tables  
+- Performing what-if analysis with Goal Seek  
+- Managing scenarios using Scenario Manager  
+- Solving optimization problems with Solver  
+- Building data-driven decision models
+
+## Week 6 – Recording Macros
+
+- Recording and running macros  
+- Editing macro code and actions  
+- Automating repetitive spreadsheet tasks  
+- Working with macro-enabled workflows  
+- Using relative reference macros  
+- Improving productivity with Excel automation  
 
 ## Key Skills Practiced
 
-- Data validation and formatting  
-- Logical and conditional functions  
-- Error handling in Excel  
-- Formula-based automation  
-- Data quality management  
-- Spreadsheet problem-solving    
+- Data validation and conditional formatting  
+- Logical functions and error handling  
+- Lookup and reference functions  
+- Formula auditing and worksheet protection  
+- Data modelling and what-if analysis  
+- Excel automation with macros    
 
 ## Tools Used
 
